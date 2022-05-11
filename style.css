@@ -98,14 +98,12 @@ header nav {
   right: 50px;
 }
 .name h4 {
-  /* margin-left: 300px; */
-
   font-size: 20px;
   font-family: Helvetica-bold;
 }
 .name h6 {
   font-size: 20px;
-  /* margin-left: 80px; */
+
   font-family: Helvetica-regular;
 }
 
@@ -140,15 +138,12 @@ header nav {
 .para2 {
   margin-top: 100px;
   margin-left: 15%;
-
   margin-bottom: 1px;
   width: 45.5%;
 }
 .inner {
   background-color: #fafafc;
-
   width: 400px;
-
   padding: 20px 40px;
   height: 500px;
   border-radius: 10px;
@@ -196,6 +191,7 @@ header nav {
 .para3 {
   width: 50%;
   padding-right: 100px;
+  margin-top: 40px;
 }
 .para3 h1 {
   width: 650px;
@@ -205,7 +201,7 @@ header nav {
 }
 .para3 p {
   margin-top: 10px;
-  font-size: 22px;
+  font-size: 20px;
   font-family: Helvetica-regular;
   color: white;
 }
