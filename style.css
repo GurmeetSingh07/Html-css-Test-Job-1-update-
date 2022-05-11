@@ -71,6 +71,7 @@ header nav {
   max-width: 96%;
   padding: 0 15px;
   margin: auto;
+  position: relative;
 }
 .main-banner {
   background-size: cover;
@@ -94,8 +95,9 @@ header nav {
 .name {
   text-align: right;
   position: absolute;
-  bottom: 55px;
-  right: 50px;
+  margin-top: 80px;
+
+  right: 20px;
 }
 .name h4 {
   font-size: 20px;
